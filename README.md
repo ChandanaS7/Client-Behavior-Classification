@@ -33,7 +33,7 @@ Decision Tree          - 87%
 - Python
 - pandas, numpy, seaborn, matplotlib
 - scikit-learn
-- graphviz (for tree plotting)
+
 
 
 

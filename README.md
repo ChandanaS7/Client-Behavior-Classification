@@ -23,11 +23,10 @@ To analyze client data and build classification models that help banks target po
 - LogisticRegression
 
 - Model Accuracies
-| Model                  | Accuracy |
-|------------------------|----------|
-| Extra Trees Classifier | 90%      |
-| Logistic Regression    | 89–90%   |
-| Decision Tree          | 87%      |
+ Model                   Accuracy 
+Extra Trees Classifier - 90%      
+Logistic Regression    - 89–90%   
+Decision Tree          - 87%      
 
 - Technologies
 
@@ -36,10 +35,6 @@ To analyze client data and build classification models that help banks target po
 - scikit-learn
 - graphviz (for tree plotting)
 
----
 
-## 📦 Installation
 
-```bash
-pip install -r requirements.txt
 
